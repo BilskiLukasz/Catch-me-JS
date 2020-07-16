@@ -1,1 +1,1 @@
-###To open start: http://217.61.109.83/
+### Open to start: http://217.61.109.83/
